@@ -21,3 +21,18 @@
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
 <p><b>Actividad:</b> Terminé de replicar todos los contenidos de la unidad 1 del grado que me habían asignado.</p>
+
+<h2>Día 4 - 13/01/2025</h2>
+<p><b>Entrada:</b> 9:00</p>
+<p><b>Salida:</b> 15:00</p>
+<p><b>Actividad:</b> Empecé a hacer los contenidos de la unidad 2.</p>
+
+<h2>Día 5 - 14/01/2025</h2>
+<p><b>Entrada:</b> 10:00</p>
+<p><b>Salida:</b> 15:00</p>
+<p><b>Actividad:</b> Terminé los contenidos de la unidad 2.</p>
+
+<h2>Día 6 - 15/01/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> </p>
