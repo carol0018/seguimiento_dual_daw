@@ -35,4 +35,15 @@
 <h2>Día 6 - 15/01/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
-<p><b>Actividad:</b> </p>
+<p><b>Actividad:</b> Terminé con los contenidos de la unidad 2. </p>
+
+<h2>Día 7 - 16/01/2025</h2>
+<p><b>Entrada:</b> 9:00</p>
+<p><b>Salida:</b> 15:00</p>
+<p><b>Actividad:</b> Empecé con los contenidos de la unidad 3. </p>
+
+<h2>Día 8 - 17/01/2025</h2>
+<p><b>Entrada:</b> 9:00</p>
+<p><b>Salida:</b> 15:00</p>
+<p><b>Actividad:</b> Avancé con los contenidos de la unidad 3. </p>
+
