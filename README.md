@@ -47,3 +47,8 @@
 <p><b>Salida:</b> 15:00</p>
 <p><b>Actividad:</b> Avancé con los contenidos de la unidad 3. </p>
 
+<h2>Día 9 - 20/01/2025</h2>
+<p><b>Entrada:</b> 9:00</p>
+<p><b>Salida:</b> 15:00</p>
+<p><b>Actividad:</b> Terminé los contenidos de la unidad 3 y empecé con los de la 4. </p>
+
