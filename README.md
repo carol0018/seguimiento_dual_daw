@@ -56,3 +56,13 @@
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
 <p><b>Actividad:</b> Terminé los contenidos de la unidad 4. </p>
+
+<h2>Día 11 - 22/01/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> Empecé con la unidad 5. </p>
+
+<h2>Día 12 - 23/01/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> Terminé con la unidad 5. </p>
