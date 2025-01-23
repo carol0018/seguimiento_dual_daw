@@ -63,6 +63,21 @@
 <p><b>Actividad:</b> Empecé con la unidad 5. </p>
 
 <h2>Día 12 - 23/01/2025</h2>
-<p><b>Entrada:</b> 8:00</p>
-<p><b>Salida:</b> 11:00</p>
+<p><b>Entrada:</b> 9:00</p>
+<p><b>Salida:</b> 15:00</p>
 <p><b>Actividad:</b> Terminé con la unidad 5. </p>
+
+<h2>Día 13 - 24/01/2025</h2>
+<p><b>Entrada:</b> :00</p>
+<p><b>Salida:</b> :00</p>
+<p><b>Actividad:</b>  </p>
+
+<h2>Día 14 - 27/01/2025</h2>
+<p><b>Entrada:</b> :00</p>
+<p><b>Salida:</b> :00</p>
+<p><b>Actividad:</b>  </p>
+
+<h2>Día 15 - 28/01/2025</h2>
+<p><b>Entrada:</b> :00</p>
+<p><b>Salida:</b> :00</p>
+<p><b>Actividad:</b>  </p>
