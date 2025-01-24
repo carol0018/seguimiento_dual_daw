@@ -70,7 +70,7 @@
 <h2>Día 13 - 24/01/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b> Empecé con la unidad 1 de la asignatura de otro grado. </p>
+<p><b>Actividad:</b> Empecé con la unidad 1 otra asignatura del grado. </p>
 
 <h2>Día 14 - 27/01/2025</h2>
 <p><b>Entrada:</b> :00</p>
