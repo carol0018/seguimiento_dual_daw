@@ -75,7 +75,7 @@
 <h2>Día 14 - 27/01/2025</h2>
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
-<p><b>Actividad:</b> Terminé con la unidad 1 y empecé con las 2. </p>
+<p><b>Actividad:</b> Terminé con la unidad 1 y empecé con la 2. </p>
 
 <h2>Día 15 - 28/01/2025</h2>
 <p><b>Entrada:</b> :00</p>
