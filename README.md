@@ -75,14 +75,22 @@
 <h2>Día 14 - 27/01/2025</h2>
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
-<p><b>Actividad:</b> Terminé con la unidad 1 y empecé con la 2. </p>
+<p><b>Actividad:</b> Terminé con la unidad 1 y empecé con la 2. He hecho uso a veces de html y css para modificar listas o imágenes, y he copiado y pegado textos e imágenes. </p>
 
 <h2>Día 15 - 28/01/2025</h2>
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
-<p><b>Actividad:</b> Seguí con la 2. </p>
+<p><b>Actividad:</b> Seguí con la 2.  He hecho uso a veces de html y css para modificar listas o imágenes, y he copiado y pegado textos e imágenes.  </p>
 
 <h2>Día 16 - 29/01/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
-<p><b>Actividad:</b> Terminé con la unidad 2 y empecé con la 3. </p>
+<p><b>Actividad:</b> Terminé con la unidad 2 y empecé con la 3. También he estado haciendo uso a veces de html y css para modificar listas o imágenes, y he copiado y pegado textos e imágenes.  </p>
+
+<h2>Día 17 - 30/01/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b> Terminé con la unidad 3 e hice la 4 entera. También he estado haciendo uso a veces de html y css para modificar listas o imágenes, y he estado copiando y pegando textos e imágenes.  </p>
+
+<h2>Día 18 - 31/01/2025</h2>
+<p>Hoy no he podido asistir a la empresa.</p>
