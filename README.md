@@ -94,3 +94,8 @@
 
 <h2>Día 18 - 31/01/2025</h2>
 <p>Hoy no he podido asistir a la empresa.</p>
+
+<h2>Día 19 - 03/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b> Empecé y terminé la unidad 5, haciendo lo mismo, copiando y pegando textos e imágenes y usando código html alguna que otra vez para algunas modificaciones.</p>
