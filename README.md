@@ -99,3 +99,8 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b> Empecé y terminé la unidad 5, haciendo lo mismo, copiando y pegando textos e imágenes y usando código html alguna que otra vez para algunas modificaciones.</p>
+
+<h2>Día 20 - 04/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b> Decidí ponerme un curso de Bootstrap en OpenWebinars y estuve haciendo las prácticas que vienen. He terminado toda la sección de "Maquetando con Bootstrap". </p>
