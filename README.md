@@ -104,3 +104,8 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b> Decidí ponerme un curso de Bootstrap en OpenWebinars y estuve haciendo las prácticas que vienen. He terminado toda la sección de "Maquetando con Bootstrap". </p>
+
+<h2>Día 21 - 05/01/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> Me puse un curso de React. Por ahora solo he visto lo básico.</p>
