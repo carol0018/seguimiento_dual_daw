@@ -109,3 +109,14 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
 <p><b>Actividad:</b> Me puse un curso de React. Por ahora solo he visto lo básico.</p>
+
+<h2>Día 22 - 06/01/2025</h2>
+<p>No pude asistir a la empresa.</p>
+
+<h2>Día 23 - 07/01/2025</h2>
+<p>No pude asistir a la empresa.</p>
+
+<h2>Día 24 - 10/01/2025</h2>
+<p><b>Entrada:</b> 9:00</p>
+<p><b>Salida:</b> 15:00</p>
+<p><b>Actividad:</b> Como todavía no me mandaron nada nuevo, seguí con el curso de React.</p>
