@@ -120,3 +120,13 @@
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
 <p><b>Actividad:</b> Como todavía no me mandaron nada nuevo, seguí con el curso de React.</p>
+
+<h2>Día 25 - 11/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b> </p>
+
+<h2>Día 26 - 12/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> </p>
