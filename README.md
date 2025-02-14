@@ -124,9 +124,19 @@
 <h2>Día 25 - 11/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b> </p>
+<p><b>Actividad:</b> Ya me asignaron un proyecto, junto con dos personas más de la empresa, que trata de hacer la parte front-end de una aplicación. Todavía no lo hemos empezado, y como vamos a usar React he seguido con el curso con el que estaba. </p>
 
 <h2>Día 26 - 12/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> </p>
+
+<h2>Día 27 - 13/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b> </p>
+
+<h2>Día 28 - 14/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
 <p><b>Actividad:</b> </p>
