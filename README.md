@@ -119,24 +119,24 @@
 <h2>Día 24 - 10/01/2025</h2>
 <p><b>Entrada:</b> 9:00</p>
 <p><b>Salida:</b> 15:00</p>
-<p><b>Actividad:</b> Como todavía no me mandaron nada nuevo, seguí con el curso de React.</p>
+<p><b>Actividad:</b> Como todavía no me mandaron nada nuevo, seguí con el curso de React, en el que he seguido informándome sobre lo que es y cómo funciona.</p>
 
 <h2>Día 25 - 11/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b> Ya me asignaron un proyecto, junto con dos personas más de la empresa, que trata de hacer la parte front-end de una aplicación. Todavía no lo hemos empezado, y como vamos a usar React he seguido con el curso con el que estaba. </p>
+<p><b>Actividad:</b> Me asignaron un proyecto junto con dos personas más de la empresa, trata de hacer la parte front-end de una aplicación. Todavía no lo hemos empezado, y como vamos a usar React he seguido con el curso con el que estaba. Vi cómo usar React para hacer botones iguales pero independientes unos de los otros, e hice un ejercicio sobre programar tres tarjetas de "A quién seguir" de la red social Twitter. </p>
 
 <h2>Día 26 - 12/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
-<p><b>Actividad:</b> </p>
+<p><b>Actividad:</b> Hoy he visto en el curso de React los props, pasar booleanos como props, pasar funciones como props, elementos como props y pasar objetos como props. </p>
 
 <h2>Día 27 - 13/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b> </p>
+<p><b>Actividad:</b> En el curso de React he estado viendo useState y haciendo un ejercio práctico que trataba de programar un tres en raya. También me ha dado tiempo a ver un poco la explicación de useEffect. </p>
 
 <h2>Día 28 - 14/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b> </p>
+<p><b>Actividad:</b> He seguido viendo la explicación de useEffect y he hecho un ejercicio práctico sobre programar una aplicación que sigue el puntero en la pantalla. </p>
