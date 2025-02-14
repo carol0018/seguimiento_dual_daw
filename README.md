@@ -133,10 +133,10 @@
 
 <h2>Día 27 - 13/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
-<p><b>Salida:</b> 11:00</p>
+<p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b> </p>
 
 <h2>Día 28 - 14/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
-<p><b>Salida:</b> 11:00</p>
+<p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b> </p>
