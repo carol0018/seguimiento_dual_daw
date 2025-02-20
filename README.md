@@ -140,3 +140,23 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b> He seguido viendo la explicación de useEffect y he hecho un ejercicio práctico sobre programar una aplicación que sigue el puntero en la pantalla. </p>
+
+<h2>Día 29 - 17/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b>En el curso de React explicaba un ejercicio para hacer un carrito de la compra y lo he estado haciendo a la vez yo también.</p>
+
+<h2>Día 30 - 18/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b>He estado haciendo ejercicios prácticos que le he pedido a ChatGPT para practicar React. Además también he hecho con figma las vistas para el diseño de la aplicación web.</p>
+
+<h2>Día 31 - 19/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b>He seguido con ejercicios que me ha puesto ChatGPT para practicar React </p>
+
+<h2>Día 32 - 20/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b>He seguido haciendo ejerciocs para practicar. Luego me han dicho que tenía que seguir haciendo la tarea del principio de copiar y pegar para crear los SCORM de Avanza.</p>
