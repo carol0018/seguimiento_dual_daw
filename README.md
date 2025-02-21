@@ -160,3 +160,8 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b>He seguido haciendo ejerciocs para practicar. Luego me han dicho que tenía que seguir haciendo la tarea del principio de copiar y pegar para crear los SCORM de Avanza.</p>
+
+<h2>Día 33 - 21/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b>He seguido practicando ejercicios de React y luego me he puesto a hacer los SCORM, copiando y pegando textos e imágenes.</p>
