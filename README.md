@@ -169,24 +169,24 @@
 <h2>Día 34 - 24/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b>Estuve viendo un video sobre React native, ya que es lo que vamos a usar en el proyecto. Estuve viendo su funcionamiento en general, los componentes que usa, cómo utiliza los estilos, etc. Luego hice el SCORM de una unidad y llegué hasta la mitad de esta.</p>
 
 <h2>Día 35 - 25/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b>Seguí con el video. Vi cómo renderizar imágenes, las props de una imágen, cómo usar botones, los cambios de colores para el status bar y más componentes como TouchableHighLight y Pressable. Luego empecé el proyecto con cosas muy básicas y me dio tiempo de avanzar un poco con la unidad 1 del SCORM.</p>
 
 <h2>Día 36 - 26/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b>Terminé la unidad 1 del SCORM y avancé con el proyecto. Me ayudé de la página oficial de React Native.</p>
 
 <h2>Día 37 - 27/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b>Empecé con la unidad 2 del SCORM y llegué hasta la mitad. El resto del tiempo lo dediqué a seguir con el proyecto. Lo que estoy haciendo en la aplicación es crear la parte del historial de solicitudes de días de los empleados, así como el apartado para hacer nuevas solicitudes. </p>
 
 <h2>Día 38 - 28/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b>Terminé la unidad 2 del SCORM. Luego me dio tiempo a seguir un poco con el proyecto.</p>
