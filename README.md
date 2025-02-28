@@ -165,3 +165,28 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b>He seguido practicando ejercicios de React y luego me he puesto a hacer los SCORM, copiando y pegando textos e imágenes.</p>
+
+<h2>Día 34 - 24/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 35 - 25/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 36 - 26/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 11:00</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 37 - 27/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 38 - 28/02/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
