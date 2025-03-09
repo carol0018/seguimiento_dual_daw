@@ -190,3 +190,17 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b>Terminé la unidad 2 del SCORM. Luego me dio tiempo a seguir un poco con el proyecto.</p>
+
+<h2>Día 39 - 05/03/2025</h2>
+<p>No pude asistir a la empresa.</p>
+
+
+<h2>Día 40 - 06/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b>Estuve haciendo los SCORM que tenía que tener terminados para la semana.</p>
+
+<h2>Día 41 - 07/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b>Terminé los SCORM</p>
