@@ -204,3 +204,23 @@
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
 <p><b>Actividad:</b>Terminé los SCORM</p>
+
+<h2>Día 42 - 10/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 43 - 11/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 44 - 12/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 10:30</p>
+<p><b>Actividad:</b></p>
+
+<h2>Día 45 - 13/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b></p>
