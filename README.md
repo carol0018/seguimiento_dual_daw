@@ -223,4 +223,4 @@
 <h2>Día 45 - 13/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b>He seguido con el proyecto. </p>
