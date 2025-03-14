@@ -144,83 +144,87 @@
 <h2>Día 29 - 17/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>En el curso de React explicaba un ejercicio para hacer un carrito de la compra y lo he estado haciendo a la vez yo también.</p>
+<p><b>Actividad:</b> En el curso de React explicaba un ejercicio para hacer un carrito de la compra y lo he estado haciendo a la vez yo también.</p>
 
 <h2>Día 30 - 18/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>He estado haciendo ejercicios prácticos que le he pedido a ChatGPT para practicar React. Además también he hecho con figma las vistas para el diseño de la aplicación web.</p>
+<p><b>Actividad:</b> He estado haciendo ejercicios prácticos que le he pedido a ChatGPT para practicar React. Además también he hecho con figma las vistas para el diseño de la aplicación web.</p>
 
 <h2>Día 31 - 19/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
-<p><b>Actividad:</b>He seguido con ejercicios que me ha puesto ChatGPT para practicar React </p>
+<p><b>Actividad:</b> He seguido con ejercicios que me ha puesto ChatGPT para practicar React </p>
 
 <h2>Día 32 - 20/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>He seguido haciendo ejerciocs para practicar. Luego me han dicho que tenía que seguir haciendo la tarea del principio de copiar y pegar para crear los SCORM de Avanza.</p>
+<p><b>Actividad:</b> He seguido haciendo ejerciocs para practicar. Luego me han dicho que tenía que seguir haciendo la tarea del principio de copiar y pegar para crear los SCORM de Avanza.</p>
 
 <h2>Día 33 - 21/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>He seguido practicando ejercicios de React y luego me he puesto a hacer los SCORM, copiando y pegando textos e imágenes.</p>
+<p><b>Actividad:</b> He seguido practicando ejercicios de React y luego me he puesto a hacer los SCORM, copiando y pegando textos e imágenes.</p>
 
 <h2>Día 34 - 24/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>Estuve viendo un video sobre React native, ya que es lo que vamos a usar en el proyecto. Estuve viendo su funcionamiento en general, los componentes que usa, cómo utiliza los estilos, etc. Luego hice el SCORM de una unidad y llegué hasta la mitad de esta.</p>
+<p><b>Actividad:</b> Estuve viendo un video sobre React native, ya que es lo que vamos a usar en el proyecto. Estuve viendo su funcionamiento en general, los componentes que usa, cómo utiliza los estilos, etc. Luego hice el SCORM de una unidad y llegué hasta la mitad de esta.</p>
 
 <h2>Día 35 - 25/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>Seguí con el video. Vi cómo renderizar imágenes, las props de una imágen, cómo usar botones, los cambios de colores para el status bar y más componentes como TouchableHighLight y Pressable. Luego empecé el proyecto con cosas muy básicas y me dio tiempo de avanzar un poco con la unidad 1 del SCORM.</p>
+<p><b>Actividad:</b> Seguí con el video. Vi cómo renderizar imágenes, las props de una imágen, cómo usar botones, los cambios de colores para el status bar y más componentes como TouchableHighLight y Pressable. Luego empecé el proyecto con cosas muy básicas y me dio tiempo de avanzar un poco con la unidad 1 del SCORM.</p>
 
 <h2>Día 36 - 26/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 11:00</p>
-<p><b>Actividad:</b>Terminé la unidad 1 del SCORM y avancé con el proyecto. Me ayudé de la página oficial de React Native.</p>
+<p><b>Actividad:</b> Terminé la unidad 1 del SCORM y avancé con el proyecto. Me ayudé de la página oficial de React Native.</p>
 
 <h2>Día 37 - 27/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>Empecé con la unidad 2 del SCORM y llegué hasta la mitad. El resto del tiempo lo dediqué a seguir con el proyecto. Lo que estoy haciendo en la aplicación es crear la parte del historial de solicitudes de días de los empleados, así como el apartado para hacer nuevas solicitudes. </p>
+<p><b>Actividad:</b> Empecé con la unidad 2 del SCORM y llegué hasta la mitad. El resto del tiempo lo dediqué a seguir con el proyecto. Lo que estoy haciendo en la aplicación es crear la parte del historial de solicitudes de días de los empleados, así como el apartado para hacer nuevas solicitudes. </p>
 
 <h2>Día 38 - 28/02/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>Terminé la unidad 2 del SCORM. Luego me dio tiempo a seguir un poco con el proyecto.</p>
+<p><b>Actividad:</b> Terminé la unidad 2 del SCORM. Luego me dio tiempo a seguir un poco con el proyecto.</p>
 
 <h2>Día 39 - 05/03/2025</h2>
-<p>No pude asistir a la empresa.</p>
-
+<p> No pude asistir a la empresa.</p>
 
 <h2>Día 40 - 06/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>Estuve haciendo los SCORM que tenía que tener terminados para la semana.</p>
+<p><b>Actividad:</b> Estuve haciendo los SCORM que tenía que tener terminados para la semana.</p>
 
 <h2>Día 41 - 07/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>Terminé los SCORM</p>
+<p><b>Actividad:</b> Terminé los SCORM</p>
 
 <h2>Día 42 - 10/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b> Como en el proyecto en el que estaba ya no se podía hacer nada más, para seguir aprendiendo empecé con mi proyecto final. Estuve diseñando en figma la página de inicio de mi aplicación web. Después creé el proyecto en React y estuve creando la estructura con distintos contenedores y creando los componentes. Estoy utilizando también Bootstrap para el proyecto, por lo que estuve informándome más a través de su página oficial.</p>
 
 <h2>Día 43 - 11/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b> Estuve probando muchas clases de Bootstrap para familiarizarme con el framework, sobre todo las que se clasifican en el apartado de Utilities, como Display, Position, Z-index, Colors, Borders, etc. Pude aplicar todo esto en la barra de navegación de mi aplicación. También estuve leyendo y aprendiendo sobre los breakpoints.</p>
 
 <h2>Día 44 - 12/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 10:30</p>
-<p><b>Actividad:</b></p>
+<p><b>Actividad:</b> Seguí con los demás componentes que iban en la página principal, seguí aprendiendo Bootstrap y manejando mejor React. También estuve un rato con javascript para crear una función que minimizara la barra de navegación al hacer scroll.</p>
 
 <h2>Día 45 - 13/03/2025</h2>
 <p><b>Entrada:</b> 8:00</p>
 <p><b>Salida:</b> 14:00</p>
-<p><b>Actividad:</b>He seguido con el proyecto. </p>
+<p><b>Actividad:</b> Seguí pero al poner con bootstrap la clase sticky a dos componentes, uno no me funcionaba. Pensé que era un problema de versiones y me empezó a dar error la aplicación, por lo que estuve un rato intentando solucionarlo. Al final, lo arreglé poniendo la propiedad 'top' con estilos en línea en vez de con bootstrap. Luego seguí modificando y mejorando los demás comoponentes, dándoles estilos y haciéndolos responsivos. </p>
+
+<h2>Día 46 - 14/03/2025</h2>
+<p><b>Entrada:</b> 8:00</p>
+<p><b>Salida:</b> 14:00</p>
+<p><b>Actividad:</b> No estuve tanto con el proyecto porque preferí seguir aprendiendo directamente en la página oficial antes de avanzar más. Luego me puse a diseñar en figma el siguiente apartado de la aplicación.</p>
